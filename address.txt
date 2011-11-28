@@ -2,4 +2,5 @@ Bhaisepati, Kathmandu
 Saibu,
 Lalitpur
 
-Modifying inside new branch: VDC - Lalitpur
+
+Modifying inside new branch: VDC - Lalitpur, Ward No - 18 "This text is for git commit --amend purpose"
